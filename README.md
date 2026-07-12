@@ -72,9 +72,9 @@ A biblioteca WiFi já acompanha o pacote do ESP32.
 
 Os projetos também podem ser executados no Wokwi.
 
-Link Projeto Publisher - Botão: https://wokwi.com/projects/469314570888818689
+Link Projeto Subscriber - LED: https://wokwi.com/projects/469314570888818689
 
-Link Projeto Subscriber - LED: https://wokwi.com/projects/469314655403004929
+Link Projeto Publisher - Botão: https://wokwi.com/projects/469314655403004929
 
 ## Organização
 
