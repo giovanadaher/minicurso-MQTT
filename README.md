@@ -76,6 +76,8 @@ Link Projeto Subscriber - LED: https://wokwi.com/projects/469314570888818689
 
 Link Projeto Publisher - Botão: https://wokwi.com/projects/469314655403004929
 
+Link Projeto Publisher - Sensor de Pressão: https://wokwi.com/projects/469316836728538113
+
 ## Organização
 
 IEEE IFF Campos Centro
