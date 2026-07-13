@@ -1,0 +1,9 @@
+https://www.hivemq.com/demos/websocket-client/?
+
+Add New Topic Subscription -> minicurso/bancada01/cancela
+
+minicurso/bancada02/cancela
+
+minicurso/central/todas_cancelas
+
+OBS.: Todos devem estar inscritos no tópico "minicurso/central/todas_cancelas" para que um computador acione todas as catracas.
